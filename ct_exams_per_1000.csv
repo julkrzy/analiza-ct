@@ -1,0 +1,369 @@
+Reference area,TIME_PERIOD,Unit of measure,OBS_VALUE
+Canada,2005,Exams per 1 000 persons,101.8
+Canada,2006,Exams per 1 000 persons,110
+Canada,2008,Exams per 1 000 persons,118.5
+Canada,2009,Exams per 1 000 persons,122.6
+Canada,2010,Exams per 1 000 persons,125.4
+Canada,2011,Exams per 1 000 persons,127.5
+Canada,2015,Exams per 1 000 persons,147.8
+Canada,2017,Exams per 1 000 persons,153.5
+Canada,2019,Exams per 1 000 persons,144.1
+Finland,2010,Exams per 1 000 persons,24.5
+Finland,2011,Exams per 1 000 persons,24.4
+Finland,2012,Exams per 1 000 persons,30.6
+Finland,2013,Exams per 1 000 persons,33.4
+Finland,2014,Exams per 1 000 persons,33.1
+Finland,2015,Exams per 1 000 persons,35.7
+Finland,2016,Exams per 1 000 persons,38.6
+Finland,2017,Exams per 1 000 persons,45.8
+Finland,2018,Exams per 1 000 persons,49.5
+France,2006,Exams per 1 000 persons,110.8
+France,2007,Exams per 1 000 persons,120
+France,2008,Exams per 1 000 persons,129.6
+France,2009,Exams per 1 000 persons,138.4
+France,2010,Exams per 1 000 persons,145.6
+France,2011,Exams per 1 000 persons,154.6
+France,2012,Exams per 1 000 persons,172.1
+France,2014,Exams per 1 000 persons,178.2
+France,2015,Exams per 1 000 persons,187.5
+France,2016,Exams per 1 000 persons,190.7
+France,2017,Exams per 1 000 persons,188
+France,2018,Exams per 1 000 persons,193.6
+France,2019,Exams per 1 000 persons,199.6
+Germany,2005,Exams per 1 000 persons,90.2
+Germany,2006,Exams per 1 000 persons,97
+Germany,2007,Exams per 1 000 persons,102
+Germany,2008,Exams per 1 000 persons,106.9
+Germany,2009,Exams per 1 000 persons,113
+Germany,2010,Exams per 1 000 persons,120.6
+Germany,2011,Exams per 1 000 persons,127.5
+Germany,2012,Exams per 1 000 persons,131.2
+Germany,2013,Exams per 1 000 persons,135.3
+Germany,2014,Exams per 1 000 persons,143.8
+Italy,2013,Exams per 1 000 persons,86.1
+Italy,2014,Exams per 1 000 persons,88.2
+Italy,2015,Exams per 1 000 persons,89.2
+Italy,2016,Exams per 1 000 persons,86.5
+Italy,2017,Exams per 1 000 persons,90.7
+Italy,2018,Exams per 1 000 persons,94
+Italy,2019,Exams per 1 000 persons,97.3
+Japan,2014,Exams per 1 000 persons,230.8
+Korea,2007,Exams per 1 000 persons,74.7
+Korea,2008,Exams per 1 000 persons,86.2
+Korea,2009,Exams per 1 000 persons,99.6
+Korea,2010,Exams per 1 000 persons,112.4
+Korea,2011,Exams per 1 000 persons,131
+Korea,2012,Exams per 1 000 persons,142.9
+Korea,2013,Exams per 1 000 persons,150.6
+Korea,2014,Exams per 1 000 persons,163.9
+Korea,2015,Exams per 1 000 persons,174.8
+Korea,2016,Exams per 1 000 persons,191.3
+Korea,2017,Exams per 1 000 persons,205
+Korea,2018,Exams per 1 000 persons,228.4
+Korea,2019,Exams per 1 000 persons,248.5
+Netherlands,2008,Exams per 1 000 persons,60.1
+Netherlands,2009,Exams per 1 000 persons,65.2
+Netherlands,2010,Exams per 1 000 persons,66
+Netherlands,2011,Exams per 1 000 persons,70.8
+Netherlands,2014,Exams per 1 000 persons,79.5
+Netherlands,2015,Exams per 1 000 persons,80.8
+Netherlands,2016,Exams per 1 000 persons,88.7
+Netherlands,2017,Exams per 1 000 persons,96.4
+Netherlands,2018,Exams per 1 000 persons,105.3
+Netherlands,2019,Exams per 1 000 persons,110.9
+Poland,2014,Exams per 1 000 persons,65.8
+Poland,2015,Exams per 1 000 persons,70.2
+Poland,2016,Exams per 1 000 persons,76.3
+Poland,2017,Exams per 1 000 persons,81.5
+Poland,2018,Exams per 1 000 persons,85.4
+Spain,2010,Exams per 1 000 persons,85.2
+Spain,2011,Exams per 1 000 persons,88.2
+Spain,2012,Exams per 1 000 persons,90.6
+Spain,2013,Exams per 1 000 persons,96.2
+Spain,2014,Exams per 1 000 persons,101.4
+Spain,2015,Exams per 1 000 persons,104.5
+Spain,2016,Exams per 1 000 persons,109.7
+Spain,2017,Exams per 1 000 persons,115
+Spain,2018,Exams per 1 000 persons,118.1
+Spain,2019,Exams per 1 000 persons,124.4
+United States,2005,Exams per 1 000 persons,194.9
+United States,2006,Exams per 1 000 persons,207.8
+United States,2007,Exams per 1 000 persons,228.1
+United States,2008,Exams per 1 000 persons,240.4
+United States,2009,Exams per 1 000 persons,252.6
+United States,2010,Exams per 1 000 persons,264.8
+United States,2011,Exams per 1 000 persons,273.8
+United States,2012,Exams per 1 000 persons,256.8
+United States,2013,Exams per 1 000 persons,240.5
+United States,2014,Exams per 1 000 persons,255
+United States,2015,Exams per 1 000 persons,245.4
+United States,2016,Exams per 1 000 persons,253.8
+United States,2017,Exams per 1 000 persons,256.2
+United States,2018,Exams per 1 000 persons,271.4
+United States,2019,Exams per 1 000 persons,278.4
+Canada,2008,Exams per 1 000 persons,1.3
+Canada,2009,Exams per 1 000 persons,1.8
+Canada,2010,Exams per 1 000 persons,1.8
+Canada,2011,Exams per 1 000 persons,2
+Finland,2010,Exams per 1 000 persons,1.3
+Finland,2011,Exams per 1 000 persons,0.8
+Finland,2012,Exams per 1 000 persons,0.6
+Finland,2013,Exams per 1 000 persons,0.6
+Finland,2014,Exams per 1 000 persons,0.6
+Finland,2015,Exams per 1 000 persons,0.5
+Finland,2016,Exams per 1 000 persons,0.5
+Finland,2017,Exams per 1 000 persons,0.5
+Finland,2018,Exams per 1 000 persons,0.5
+Finland,2019,Exams per 1 000 persons,0.6
+France,2006,Exams per 1 000 persons,40
+France,2007,Exams per 1 000 persons,43.6
+France,2008,Exams per 1 000 persons,47
+France,2009,Exams per 1 000 persons,49.5
+France,2010,Exams per 1 000 persons,53.1
+France,2011,Exams per 1 000 persons,56.3
+France,2012,Exams per 1 000 persons,72.4
+France,2014,Exams per 1 000 persons,65.3
+France,2015,Exams per 1 000 persons,67.4
+France,2016,Exams per 1 000 persons,70
+France,2017,Exams per 1 000 persons,71
+France,2018,Exams per 1 000 persons,73.6
+France,2019,Exams per 1 000 persons,76.2
+Germany,2005,Exams per 1 000 persons,54.2
+Germany,2006,Exams per 1 000 persons,58.1
+Germany,2007,Exams per 1 000 persons,60.1
+Germany,2008,Exams per 1 000 persons,61.8
+Germany,2009,Exams per 1 000 persons,64
+Germany,2010,Exams per 1 000 persons,69.4
+Germany,2011,Exams per 1 000 persons,72.1
+Germany,2012,Exams per 1 000 persons,72.6
+Germany,2013,Exams per 1 000 persons,73.8
+Germany,2014,Exams per 1 000 persons,78.7
+Korea,2007,Exams per 1 000 persons,7.3
+Korea,2008,Exams per 1 000 persons,7.7
+Korea,2009,Exams per 1 000 persons,8.7
+Korea,2010,Exams per 1 000 persons,9.9
+Korea,2011,Exams per 1 000 persons,11.5
+Korea,2012,Exams per 1 000 persons,12.2
+Korea,2013,Exams per 1 000 persons,13
+Korea,2014,Exams per 1 000 persons,13.7
+Korea,2015,Exams per 1 000 persons,14.5
+Korea,2016,Exams per 1 000 persons,15.8
+Korea,2017,Exams per 1 000 persons,17.8
+Korea,2018,Exams per 1 000 persons,20.6
+Korea,2019,Exams per 1 000 persons,24.2
+Netherlands,2008,Exams per 1 000 persons,0.1
+Netherlands,2009,Exams per 1 000 persons,0.2
+Netherlands,2010,Exams per 1 000 persons,0.2
+Netherlands,2011,Exams per 1 000 persons,0.2
+Netherlands,2014,Exams per 1 000 persons,0.2
+Netherlands,2015,Exams per 1 000 persons,0.5
+Netherlands,2016,Exams per 1 000 persons,0.1
+Netherlands,2017,Exams per 1 000 persons,0.2
+Netherlands,2018,Exams per 1 000 persons,0.2
+Netherlands,2019,Exams per 1 000 persons,0.5
+Poland,2019,Exams per 1 000 persons,15.1
+Spain,2010,Exams per 1 000 persons,3
+Spain,2011,Exams per 1 000 persons,3.6
+Spain,2012,Exams per 1 000 persons,3.9
+Spain,2013,Exams per 1 000 persons,3.7
+Spain,2014,Exams per 1 000 persons,3.4
+Spain,2015,Exams per 1 000 persons,3.5
+Spain,2016,Exams per 1 000 persons,3.8
+Spain,2017,Exams per 1 000 persons,4.2
+Spain,2018,Exams per 1 000 persons,4.4
+Spain,2019,Exams per 1 000 persons,4.6
+United States,2005,Exams per 1 000 persons,35.2
+United States,2006,Exams per 1 000 persons,36.9
+United States,2007,Exams per 1 000 persons,43.2
+United States,2008,Exams per 1 000 persons,48.3
+United States,2009,Exams per 1 000 persons,53.5
+United States,2010,Exams per 1 000 persons,58.2
+United States,2011,Exams per 1 000 persons,61.6
+United States,2012,Exams per 1 000 persons,58.3
+United States,2013,Exams per 1 000 persons,55.4
+United States,2014,Exams per 1 000 persons,59.4
+United States,2015,Exams per 1 000 persons,49.9
+United States,2016,Exams per 1 000 persons,50.5
+United States,2017,Exams per 1 000 persons,43.7
+United States,2018,Exams per 1 000 persons,50.8
+United States,2019,Exams per 1 000 persons,61.2
+Canada,2008,Exams per 1 000 persons,117.1
+Canada,2009,Exams per 1 000 persons,120.8
+Canada,2010,Exams per 1 000 persons,123.5
+Canada,2011,Exams per 1 000 persons,125.5
+Finland,2010,Exams per 1 000 persons,23.2
+Finland,2011,Exams per 1 000 persons,23.7
+Finland,2012,Exams per 1 000 persons,30
+Finland,2013,Exams per 1 000 persons,32.8
+Finland,2014,Exams per 1 000 persons,32.4
+Finland,2015,Exams per 1 000 persons,35.2
+Finland,2016,Exams per 1 000 persons,38
+Finland,2017,Exams per 1 000 persons,45.3
+Finland,2018,Exams per 1 000 persons,49
+France,2005,Exams per 1 000 persons,67.6
+France,2006,Exams per 1 000 persons,70.8
+France,2007,Exams per 1 000 persons,76.4
+France,2008,Exams per 1 000 persons,82.7
+France,2009,Exams per 1 000 persons,88.8
+France,2010,Exams per 1 000 persons,92.4
+France,2011,Exams per 1 000 persons,98.3
+France,2012,Exams per 1 000 persons,99.7
+France,2014,Exams per 1 000 persons,112.8
+France,2015,Exams per 1 000 persons,120
+France,2016,Exams per 1 000 persons,120.7
+France,2017,Exams per 1 000 persons,117.1
+France,2018,Exams per 1 000 persons,120
+France,2019,Exams per 1 000 persons,123.4
+Germany,2005,Exams per 1 000 persons,36
+Germany,2006,Exams per 1 000 persons,38.9
+Germany,2007,Exams per 1 000 persons,42
+Germany,2008,Exams per 1 000 persons,45.2
+Germany,2009,Exams per 1 000 persons,49
+Germany,2010,Exams per 1 000 persons,51.2
+Germany,2011,Exams per 1 000 persons,55.4
+Germany,2012,Exams per 1 000 persons,58.6
+Germany,2013,Exams per 1 000 persons,61.5
+Germany,2014,Exams per 1 000 persons,65.1
+Germany,2015,Exams per 1 000 persons,67.2
+Germany,2016,Exams per 1 000 persons,70.7
+Germany,2017,Exams per 1 000 persons,73.4
+Germany,2018,Exams per 1 000 persons,75.9
+Germany,2019,Exams per 1 000 persons,79
+Korea,2007,Exams per 1 000 persons,67.4
+Korea,2008,Exams per 1 000 persons,78.6
+Korea,2009,Exams per 1 000 persons,90.9
+Korea,2010,Exams per 1 000 persons,102.6
+Korea,2011,Exams per 1 000 persons,119.5
+Korea,2012,Exams per 1 000 persons,130.7
+Korea,2013,Exams per 1 000 persons,137.6
+Korea,2014,Exams per 1 000 persons,150.1
+Korea,2015,Exams per 1 000 persons,160.3
+Korea,2016,Exams per 1 000 persons,175.5
+Korea,2017,Exams per 1 000 persons,187.2
+Korea,2018,Exams per 1 000 persons,207.8
+Korea,2019,Exams per 1 000 persons,224.4
+Netherlands,2008,Exams per 1 000 persons,59.9
+Netherlands,2009,Exams per 1 000 persons,65.1
+Netherlands,2010,Exams per 1 000 persons,65.8
+Netherlands,2011,Exams per 1 000 persons,70.6
+Netherlands,2014,Exams per 1 000 persons,79.4
+Netherlands,2015,Exams per 1 000 persons,80.3
+Netherlands,2016,Exams per 1 000 persons,88.5
+Netherlands,2017,Exams per 1 000 persons,96.2
+Netherlands,2018,Exams per 1 000 persons,105.1
+Netherlands,2019,Exams per 1 000 persons,110.4
+Poland,2019,Exams per 1 000 persons,85.6
+Spain,2005,Exams per 1 000 persons,66.4
+Spain,2006,Exams per 1 000 persons,69.7
+Spain,2007,Exams per 1 000 persons,72.6
+Spain,2008,Exams per 1 000 persons,76.2
+Spain,2009,Exams per 1 000 persons,79.3
+Spain,2010,Exams per 1 000 persons,82.2
+Spain,2011,Exams per 1 000 persons,84.6
+Spain,2012,Exams per 1 000 persons,86.7
+Spain,2013,Exams per 1 000 persons,92.4
+Spain,2014,Exams per 1 000 persons,98
+Spain,2015,Exams per 1 000 persons,100.9
+Spain,2016,Exams per 1 000 persons,105.9
+Spain,2017,Exams per 1 000 persons,110.8
+Spain,2018,Exams per 1 000 persons,113.8
+Spain,2019,Exams per 1 000 persons,119.8
+United States,2005,Exams per 1 000 persons,159.7
+United States,2006,Exams per 1 000 persons,170.9
+United States,2007,Exams per 1 000 persons,184.9
+United States,2008,Exams per 1 000 persons,192
+United States,2009,Exams per 1 000 persons,199.2
+United States,2010,Exams per 1 000 persons,206.6
+United States,2011,Exams per 1 000 persons,212.1
+United States,2012,Exams per 1 000 persons,198.5
+United States,2013,Exams per 1 000 persons,185.1
+United States,2014,Exams per 1 000 persons,195.7
+United States,2015,Exams per 1 000 persons,195.5
+United States,2016,Exams per 1 000 persons,203.4
+United States,2017,Exams per 1 000 persons,212.5
+United States,2018,Exams per 1 000 persons,220.6
+United States,2019,Exams per 1 000 persons,217.2
+Canada,2012,Exams per 1 000 persons,127.3
+Canada,2012,Exams per 1 000 persons,125.4
+Canada,2012,Exams per 1 000 persons,2
+Canada,2013,Exams per 1 000 persons,2
+Canada,2013,Exams per 1 000 persons,130.3
+Canada,2013,Exams per 1 000 persons,132.3
+United Kingdom,2005,Exams per 1 000 persons,49
+United Kingdom,2006,Exams per 1 000 persons,53.5
+United Kingdom,2007,Exams per 1 000 persons,59.3
+United Kingdom,2008,Exams per 1 000 persons,64.9
+United Kingdom,2009,Exams per 1 000 persons,71.2
+United Kingdom,2010,Exams per 1 000 persons,75.7
+United Kingdom,2013,Exams per 1 000 persons,70.1
+United Kingdom,2014,Exams per 1 000 persons,77.3
+United Kingdom,2015,Exams per 1 000 persons,81.5
+United Kingdom,2016,Exams per 1 000 persons,87.2
+United Kingdom,2017,Exams per 1 000 persons,92.6
+United Kingdom,2018,Exams per 1 000 persons,101.4
+United Kingdom,2019,Exams per 1 000 persons,103.5
+Germany,2015,Exams per 1 000 persons,143.1
+Germany,2016,Exams per 1 000 persons,148.5
+Germany,2018,Exams per 1 000 persons,144.7
+Germany,2019,Exams per 1 000 persons,151.2
+Germany,2015,Exams per 1 000 persons,75.9
+Germany,2016,Exams per 1 000 persons,77.7
+Germany,2018,Exams per 1 000 persons,68.8
+Germany,2019,Exams per 1 000 persons,72.2
+New Zealand,2005,Exams per 1 000 persons,16.1
+New Zealand,2006,Exams per 1 000 persons,17.2
+New Zealand,2007,Exams per 1 000 persons,18.1
+New Zealand,2008,Exams per 1 000 persons,20.2
+New Zealand,2009,Exams per 1 000 persons,21.9
+New Zealand,2010,Exams per 1 000 persons,22.5
+New Zealand,2011,Exams per 1 000 persons,24.5
+New Zealand,2012,Exams per 1 000 persons,26.8
+New Zealand,2013,Exams per 1 000 persons,28.7
+Finland,2019,Exams per 1 000 persons,33.7
+Finland,2019,Exams per 1 000 persons,33.2
+France,2013,Exams per 1 000 persons,183.4
+France,2013,Exams per 1 000 persons,63.9
+France,2013,Exams per 1 000 persons,119.4
+Poland,2019,Exams per 1 000 persons,100.6
+Australia,2007,Exams per 1 000 persons,83.2
+Australia,2007,Exams per 1 000 persons,6.3
+Australia,2007,Exams per 1 000 persons,76.9
+Australia,2008,Exams per 1 000 persons,81
+Australia,2008,Exams per 1 000 persons,6.6
+Australia,2008,Exams per 1 000 persons,87.6
+Australia,2009,Exams per 1 000 persons,92.6
+Australia,2009,Exams per 1 000 persons,7
+Australia,2009,Exams per 1 000 persons,85.5
+Australia,2010,Exams per 1 000 persons,86.3
+Australia,2010,Exams per 1 000 persons,7.3
+Australia,2010,Exams per 1 000 persons,93.6
+Australia,2011,Exams per 1 000 persons,91.2
+Australia,2011,Exams per 1 000 persons,7.8
+Australia,2011,Exams per 1 000 persons,83.4
+Australia,2012,Exams per 1 000 persons,95.3
+Australia,2012,Exams per 1 000 persons,8.7
+Australia,2012,Exams per 1 000 persons,104.1
+Australia,2013,Exams per 1 000 persons,109.8
+Australia,2013,Exams per 1 000 persons,9.7
+Australia,2013,Exams per 1 000 persons,100.1
+Australia,2014,Exams per 1 000 persons,105.1
+Australia,2014,Exams per 1 000 persons,10.3
+Australia,2014,Exams per 1 000 persons,115.4
+Australia,2015,Exams per 1 000 persons,119.5
+Australia,2015,Exams per 1 000 persons,11.1
+Australia,2015,Exams per 1 000 persons,108.4
+Australia,2016,Exams per 1 000 persons,107.8
+Australia,2016,Exams per 1 000 persons,11.5
+Australia,2016,Exams per 1 000 persons,119.3
+Australia,2017,Exams per 1 000 persons,126.1
+Australia,2017,Exams per 1 000 persons,12.5
+Australia,2017,Exams per 1 000 persons,113.5
+Australia,2018,Exams per 1 000 persons,121.3
+Australia,2018,Exams per 1 000 persons,13.4
+Australia,2018,Exams per 1 000 persons,134.7
+Australia,2019,Exams per 1 000 persons,141.1
+Australia,2019,Exams per 1 000 persons,13.9
+Australia,2019,Exams per 1 000 persons,127.2
+Germany,2017,Exams per 1 000 persons,66.5
+Germany,2017,Exams per 1 000 persons,139.9
+United Kingdom,2012,Exams per 1 000 persons,62.6
